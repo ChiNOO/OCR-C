@@ -9,9 +9,8 @@ import android.view.SurfaceHolder;
 import android.view.SurfaceView;
 import android.view.View;
 import android.widget.Button;
-import com.example.christian.ocr_c.ExtraViews.FocusBoxView;
-import Imaging.Tools;
-import TessTool.TessAsyncEngine;
+import com.example.christian.ocr_c.Imaging.Tools;
+import com.example.christian.ocr_c.TessTool.TessAsyncEngine;
 import android.hardware.Camera;
 
 

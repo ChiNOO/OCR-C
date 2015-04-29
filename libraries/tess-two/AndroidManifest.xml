@@ -15,7 +15,7 @@
 -->
 
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.googlecode.tesseract.android"
+    package="com.com.example.christian.ocr_c.googlecode.tesseract.android"
     android:versionCode="1"
     android:versionName="1.0" >
 

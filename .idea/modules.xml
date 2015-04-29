@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/OCR-C.iml" filepath="$PROJECT_DIR$/OCR-C.iml" />
+      <module fileurl="file://$PROJECT_DIR$/OCR.iml" filepath="$PROJECT_DIR$/OCR.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
       <module fileurl="file://$PROJECT_DIR$/libraries/libraries.iml" filepath="$PROJECT_DIR$/libraries/libraries.iml" />
       <module fileurl="file://$PROJECT_DIR$/libraries/tess-two/libraries-tess-two.iml" filepath="$PROJECT_DIR$/libraries/tess-two/libraries-tess-two.iml" />

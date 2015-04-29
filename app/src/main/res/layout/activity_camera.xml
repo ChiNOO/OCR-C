@@ -10,7 +10,7 @@
         android:layout_width="fill_parent"
         android:layout_height="fill_parent" />
 
-   <ExtraViews.FocusBoxView
+   <com.example.christian.ocr_c.FocusBoxView
         android:id="@+id/focus_box"
         android:layout_width="fill_parent"
         android:layout_height="fill_parent" />
